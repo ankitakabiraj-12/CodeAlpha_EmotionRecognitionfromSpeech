@@ -219,7 +219,7 @@ This project was developed as part of the **CodeAlpha Machine Learning Internshi
 
 **ANKITA KABIRAJ**
 
-BCA Student | Aspiring Web Developer & AI/ML Enthusiast
+BCA Final-year student 
 
 GitHub: `ankitakabiraj-12`
 
