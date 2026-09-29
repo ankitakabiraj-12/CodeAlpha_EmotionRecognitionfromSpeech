@@ -217,7 +217,7 @@ This project was developed as part of the **CodeAlpha Machine Learning Internshi
 
 ## 👩‍💻 Author
 
-**Ankita Kabiraj**
+**ANKITA KABIRAJ**
 
 BCA Student | Aspiring Web Developer & AI/ML Enthusiast
 
